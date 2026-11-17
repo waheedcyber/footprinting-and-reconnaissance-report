@@ -1,0 +1,14 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+~$*.docx
+
+# Private/raw captures: review before intentionally adding
+# raw-outputs/
+# private-evidence/

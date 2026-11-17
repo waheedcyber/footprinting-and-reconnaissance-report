@@ -1,2 +1,14 @@
-# footprinting-and-reconnaissance-report
-Hands-on cybersecurity reconnaissance and network discovery project using Kali Linux, WHOIS, WhatWeb, DNSRecon, WAFW00F, cURL, nslookup, and Zenmap (Nmap). Includes a detailed report, findings, and security observations.
+# Evidence
+
+Place authorized terminal screenshots and supporting evidence for each lab here.
+
+Suggested filenames:
+- `whois.png`
+- `whatweb.png`
+- `nslookup.png`
+- `curl-headers.png`
+- `wafw00f.png`
+- `dnsrecon.png`
+- `zenmap-ping-scan.png`
+
+Review and redact sensitive information before uploading. Do not include passwords, tokens, cookies, or other people's device identifiers in a public repository.
